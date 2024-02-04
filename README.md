@@ -45,4 +45,4 @@ Next, let's go ahead and assign our user, <b>az104-01a-aaduser1</b> the appropri
 
 Next, open a new browser in private mode and log in as the newly created user. You should notice that when trying to adjust user settings, the permission to do so has been denied. However, you do have the capability to create a new user. 
 
-# Creating groups with assigned dynamic memberships
+
